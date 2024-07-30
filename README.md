@@ -1,0 +1,2 @@
+# cores
+ actividades core bootcamp
